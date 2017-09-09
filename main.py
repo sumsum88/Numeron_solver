@@ -3,7 +3,6 @@
 
 from agent import NumeronAgent, NumeronHumanAgent
 
-
 class Game(object):
     """
     Numeron対戦用クラス
